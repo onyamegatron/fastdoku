@@ -13,6 +13,7 @@ no mouse needed
 ## Further
 * Implement custom algorithm for generating valid sudoku boards rather than outsourcing sudoku puzzles.
 * ~~Develop for mobile~~ This is made for using a numpad, too bad if you don't have a numpad
+* Add a timer & show puzzle button to start timer
 
 ## Reason for project
-I like sudoku, I want to go back to basics and practice vanillaJS.
+I like sudoku & I want to go back to the basics and practice vanillaJS.
