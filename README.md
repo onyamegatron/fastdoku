@@ -4,6 +4,7 @@ no mouse needed
 
 ## Status
 * Beginning Stage
+* [Preview page here!](https://htmlpreview.github.io/?https://github.com/onyamegatron/fastdoku/blob/main/index.html)
 
 ## Idea
 * Use Dosoku API to generate sudoku board.
