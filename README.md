@@ -1,0 +1,2 @@
+# fastdoku
+Play Sudoku Fast
