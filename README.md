@@ -1,6 +1,6 @@
 # fastdoku
-Minimal and fast way to play sudoku
-No mouse needed
+minimal and fast way to play sudoku
+no mouse needed
 
 ## Status
 * Beginning Stage
